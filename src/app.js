@@ -40,7 +40,7 @@ var menuFunc = function(e) {
     // menu.show();
   });
   menu.show();
-}
+};
 
 
 main.on('click', 'up', menuFunc);
